@@ -1,7 +1,7 @@
 {
-	"facebookAccount": "Daryl Abarracoso"
+	"facebookAccount": {
 		"email": "",
-		"password": "Yeshua2027",
+		"password": "",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
