@@ -26,7 +26,7 @@ module.exports = {
                         session2: "noon",
                         session3: "afternoon",
                         session4: "evening",
-                        welcomeMessage: "Hello, everyone! I'm RTUMM-GAND! An AI Messenger ChatBot created by Math Major. My prefix is #. If you need some help with homeworks or assistant, you can use my command 'ai <your question here>', type #help to see the list of my commands. That's all, thank you for adding me here! ><\n\ntype '#callad <message>' to send a message to the admin of the bot if any issue will start.",
+                        welcomeMessage: "Hello, everyone! I'm RTUMM, an AI Messenger ChatBot created by a Math major. I'm excited to be part of your group and ready to assist with anything math-related or beyond! Just type my prefix (#) to ask me anything. 🤗🎀",
                         multiple1: "you",
                         multiple2: "you guys",
                         defaultWelcomeMessage: `Annyeong {userName}! welcomeee, hope you will enjoy your time here in {boxName} 😍🎀.`
