@@ -29,7 +29,7 @@ module.exports = {
                         welcomeMessage: "Hello, everyone! I'm RTUMM, an AI Messenger ChatBot created by Math Major. I'm excited to be part of your group and ready to assist with anything math-related or beyond! Just type my prefix (#) to ask me anything. 🤗🎀",
                         multiple1: "you",
                         multiple2: "you guys",
-                        defaultWelcomeMessage: `Annyeong {userName}! welcomeee, hope you will enjoy your time here in {boxName} 😍🎀.`
+                        defaultWelcomeMessage: `Annyeonggg {userName}! welcome to the group.🤗\nhope you will enjoy your time here in {boxName} 😍🎀.`
                 }
         },
 
